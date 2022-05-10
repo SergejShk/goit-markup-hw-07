@@ -28,7 +28,7 @@ img {
 body {
   font-family: Roboto, sans-serif;
   letter-spacing: 0.03em;
-  color: var(--primary-text-color);
+  color: #757575;
 }
 
 .title--hidden {
@@ -786,6 +786,10 @@ body {
 
 .address__list {
   font-style: normal;
+}
+
+.address__item {
+  margin-bottom: 9px;
 }
 
 .address__link {
